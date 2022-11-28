@@ -584,7 +584,7 @@ li {
   min-width: 19.9375rem;
 
   border-radius: 1.25rem;
-  background-color: #9CA295;
+  background-color: #B9C0B1;
 }
 
 @media only screen and (max-width: 67.25rem) {
@@ -624,7 +624,7 @@ li {
 }
 
 .event-card a:hover {
-  color: #9CA295;
+  color: #B9C0B1;
   background-color: #0D2314;
 }
 
@@ -656,8 +656,8 @@ li {
 }
 
 footer {
-  padding: 1.25rem 0;
-  background-color: #3F7259;
+  padding: 2.5rem 0 3rem;
+  background-color: #393C36;
 }
 
 .credits {
@@ -671,7 +671,7 @@ footer {
   font-size: 1rem;
   font-weight: 300;
   text-transform: uppercase;
-  color: #F6F0E9;
+  color: #B9C0B1;
 }
 
 .credits-container {
@@ -690,12 +690,12 @@ footer {
 }
 
 .credits a {
-  color: #F6F0E9;
+  color: #B9C0B1;
 }
 
 .credits a:hover {
-  color: #3F7259;
-  background-color: #F6F0E9;
+  color: #393C36;
+  background-color: #B9C0B1;
 }
 
 @media only screen and (max-width: 33.125rem) {
