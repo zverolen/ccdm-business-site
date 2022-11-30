@@ -706,6 +706,8 @@ footer {
 }
 
 .credits a {
+  display: block;
+
   color: #B9C0B1;
 }
 
