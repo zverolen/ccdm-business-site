@@ -11,6 +11,12 @@ body {
   color: #0D2314;
 }
 
+main, header, footer {
+  max-width: 100rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 section {
   margin-bottom: 3.75rem;
 }
